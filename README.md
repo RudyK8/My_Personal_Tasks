@@ -43,3 +43,11 @@ Couleurs fonctionnelles:
     Orange : Attention, priorité moyenne
     Rouge : Urgence, retard, priorité haute
     Violet : Éléments secondaires, catégories
+
+Formes et composants:
+    Cartes avec coins arrondis et rayon homogène.
+    Bordures discrètes.
+    Icônes simples et reconnaissables.
+    Boutons bleus pour actions principales.
+    Animations courtes lors des interactions.
+    Typographie moderne et lisible (*Inter* par exemple)
