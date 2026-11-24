@@ -31,3 +31,15 @@ MPT/
 └── assets/
     ├── images/
     └── icons/
+
+Couleurs principales:
+    Bleu nuit -> #14264D : Navigation
+    Bleu principal -> #1764EB : Actions
+    Bleu clair -> #579BEE : Progression
+    Fond général -> #F2F5FF : Arrière-plan
+
+Couleurs fonctionnelles:
+    Vert : Terminé, réussite, validation
+    Orange : Attention, priorité moyenne
+    Rouge : Urgence, retard, priorité haute
+    Violet : Éléments secondaires, catégories
