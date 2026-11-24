@@ -1,25 +1,32 @@
 # My_Personal_Tasks
 Site web permettant de structurer le planning, les cours, les taches et les objectifs d'étudiants dans le supérieur.
 
-RELAIS/
-│
+MPT/
 ├── index.html
-│
 ├── pages/
 │   ├── dashboard.html
-│   ├── project.html
-│   └── session.html
+│   ├── planning.html
+│   ├── tasks.html
+│   ├── subjects.html
+│   ├── projects.html
+│   ├── goals.html
+│   ├── journal.html
+│   ├── statistics.html
+│   └── settings.html
 │
 ├── css/
 │   ├── style.css
-│   ├── dashboard.css
-│   └── project.css
+│   ├── layout.css
+│   ├── components.css
+│   └── pages/
 │
 ├── js/
 │   ├── app.js
-│   ├── projects.js
-│   ├── sessions.js
-│   └── storage.js
+│   ├── storage.js
+│   ├── data/
+│   ├── services/
+│   ├── components/
+│   └── pages/
 │
 └── assets/
     ├── images/
