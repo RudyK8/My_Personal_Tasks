@@ -33,10 +33,13 @@ MPT/
     └── icons/
 
 Couleurs principales:
-    Bleu nuit -> #14264D : Navigation
-    Bleu principal -> #1764EB : Actions
-    Bleu clair -> #579BEE : Progression
-    Fond général -> #F2F5FF : Arrière-plan
+    Thème clair: 
+        Bleu principal -> #1764E8 : Boutons, liens, éléments actifs
+        Bleu profond -> #14264D : Titres importants et navigation
+        Fond général -> #F4F6FC : Arrière-plan de l'application
+        Surface -> #FFFFFF : Cartes, menus et fenêtres
+        Bordure -> #DFE5F1 : Séparations et contours
+        Texte secondaire -> #65728A : Descriptions et informations secondaires
 
 Couleurs fonctionnelles:
     Vert : Terminé, réussite, validation
